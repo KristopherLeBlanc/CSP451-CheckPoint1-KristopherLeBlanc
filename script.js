@@ -9,3 +9,5 @@ function greetUser(name) {
 // Function call
 const message = greetUser("Kris");
 console.log(message);
+
+// Updated for commit history requirement
