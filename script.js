@@ -9,3 +9,6 @@ function greetUser(name) {
 // Function call
 const message = greetUser("Kris");
 console.log(message);
+
+
+// commit added on main branch
