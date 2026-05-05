@@ -23,3 +23,6 @@ Technologies used: **HTML5**, **CSS3**, **JavaScript**, **Git**, **GitHub**, **G
    ```bash
    git clone https://github.com/<your-username>/CSP451-CheckPoint1-KristopherLeBlanc
 
+Additional notes added on main branch.
+
+Additional notes added on main branch.
