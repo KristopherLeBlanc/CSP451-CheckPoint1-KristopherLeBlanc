@@ -26,3 +26,5 @@ Technologies used: **HTML5**, **CSS3**, **JavaScript**, **Git**, **GitHub**, **G
 Additional notes added on main branch.
 
 Additional notes added on main branch.
+
+> Update: This project was modified as part of the CheckPoint 1 review workflow.
