@@ -13,3 +13,6 @@ console.log(message);
 
 // commit added on main branch
 // commit added on main branch
+
+// Updated for CheckPoint 1 review workflow
+console.log("Navigation spacing update applied");
